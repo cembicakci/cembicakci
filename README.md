@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cembicakci
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html, Css and JavaScript
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me cmbicakci@gmail.com
 
 <!---
